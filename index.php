@@ -1,3 +1,11 @@
+<!DOCTYPE HTML>
 <html>
-	hi
+	<head>
+		<title>PIZAAAAAAA</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	</head>
+	
+	<body>
+		hi
+	</body>
 </html>

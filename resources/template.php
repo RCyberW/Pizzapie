@@ -12,7 +12,10 @@
 <!--- Site Header --->
 <header>
 	<div class="banner">Yo, this is a banner</div>
-	<input class="search_bar" type="text" value="Search..."/>
+	<input id="search_bar" type="text" value="Search..." 
+						   onfocus="document.getElementById('search_bar').value=''"
+						   onBlur ="document.getElementById('search_bar').value='Search...'"
+						   />
 </header>
 
 <!--- Navigation --->
